@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   category: "music",
 
   openGraph: {
-    title: "Drumhaus",
+    title: "RythmnBox",
     description:
       "Drumhaus is the ultimate browser controlled rhythmic groove machine. Explore web based drum sampling with limitless creativity, and share it all with your friends.",
     images: "/opengraph-image.png",
